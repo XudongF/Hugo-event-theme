@@ -405,8 +405,8 @@ pluralizelisttitles = false
     enableGoogleMaps = true
     googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "-43.00090491899839"
+    longitude = "-78.78957062459308"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "blue"
@@ -451,7 +451,7 @@ pluralizelisttitles = false
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    dropdown_mouse_over = false
+    dropdown_mouse_over = true
 
     disabled_logo = false
     logo_text = "UB Quantum Cluster"
