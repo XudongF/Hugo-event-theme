@@ -1,17 +1,17 @@
-name = "Universal"
+name = "Universal-XF"
 license = "MIT"
 licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
-description = "A port of the Universal theme"
-homepage = "https://github.com/devcows/hugo-universal-theme"
-tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
-features = ["blog", "themes", "disqus", "minimal", "responsive"]
-min_version = 0.15
+description = "A customized fork of the Hugo Universal Theme for research, academic, and professional sites."
+homepage = "https://github.com/xudongfan/hugo-universal-xf"
+tags = ["academic", "portfolio", "responsive", "research"]
+features = ["blog", "landing", "custom layouts", "responsive"]
+min_version = 0.128
+version = "2.0.0-xf"
 
 [author]
-    name = "devcows"
-    homepage = "https://github.com/devcows"
+  name = "devcows (original), modified by Xudong Fan"
+  homepage = "https://github.com/xudongfan"
 
-# If Porting existing theme
 [original]
-    author =  "bootstrapious"
-    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
+  author =  "bootstrapious"
+  homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
